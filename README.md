@@ -10,8 +10,7 @@ Exemplo de Aplicação Java Web JSF integrada ao Spring Framework
 tomcat7:deploy e depois a cada novo deploy tomcat7:redeploy.      
 5 - No browser a url a ser chamada é a:   
 http://localhost:8080/springjsf/  
-
-
+___________________________________________________________________________________________________
 English:
 # Example of using JSF integrated with Spring  
 
